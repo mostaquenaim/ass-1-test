@@ -1,7 +1,5 @@
 /* overall  */
-*{
 
-}
 .title-primary{
     color: #272727;
     font-family: Lato;
@@ -33,9 +31,11 @@
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
+    
 }
 nav{
     background-color: #477d1126;
+    
 }
 nav ul{
     display: flex;
